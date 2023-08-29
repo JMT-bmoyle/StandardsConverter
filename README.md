@@ -2,6 +2,8 @@
 
 This is a guide for how to convert standards in a `.JXL` file. Please reach out to me at BMoyle@jmt.com or on Teams if you have any questions.
 
+The current path to the converter is: `Q:\AZURE_HVMD\00-Reality_Capture\Sandbox\bmoyle\STANDARDS_CONVERTER`
+
 # Installation
 Installation has been streamlined to a `.BAT` file. In the event that the batch file fails to install the requirements, below will also be the steps for manual installation.
 
